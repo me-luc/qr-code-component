@@ -11,6 +11,7 @@
 ## Overview
 
 This is a solution to the [QR code component challenge on Frontend Mentor]
+
 [Check the deploy page](https://me-luc.github.io/qr-code-landing-page/)
 
 ### Screenshot
